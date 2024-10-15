@@ -1,0 +1,1 @@
+<div class="spinner-grow text-primary" role="status"></div>
